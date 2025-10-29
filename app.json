@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "9cb24839-2bbc-4fa5-9447-529c61c76074"
+      }
+    },
+    "android": {
+      "package": "com.unremark.courageousredchip"
+    }
+  }
+}
